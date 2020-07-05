@@ -1,0 +1,54 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "hello ",
+      "tech": "Abdelkader Dali",
+      "attention": true,
+      "date": "2020-07-05T13:23:24.154Z"
+    },
+    {
+      "id": 3,
+      "message": "Ciao ",
+      "tech": "Sara Wilson",
+      "attention": true,
+      "date": "2020-07-01T14:44:24.372Z"
+    },
+    {
+      "message": "Workstation 005 is lacking of RAM",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-07-01T14:45:34.243Z",
+      "id": 4
+    },
+    {
+      "message": "salut a tous",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-07-05T12:38:31.326Z",
+      "id": 5
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "AKD",
+      "lastName": "DA",
+      "id": 4
+    }
+  ]
+}
